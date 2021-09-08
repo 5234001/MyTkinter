@@ -1,0 +1,8 @@
+# Widget 共同属性：
+# color: fg, bg, 分别对应前景色与背景色彩
+# dimensiong: height, width，设置控件的高度与宽度
+# anchor: 设置标签文字在标签区域的输出位置
+# font: 用与设置文字字形，分别对应如下参数：字形、字号、加粗、倾斜、下划线、拉伸(family, size, weight, slant, underline, overstrike)
+# bitmap: 设置内建位图（对应使用compound参数，设置位图与文字关系）
+# relief: 设置控件边框，分别对应：flat, groove, raised, ridge, solid, sunken
+# cursors()：用与设计光标形状。如鼠标位于label或button上时，变换形状
